@@ -1,1 +1,1 @@
-web: python dontuse.py
+web: python3 dontuse.py
