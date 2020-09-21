@@ -1,3 +1,2 @@
-pandas
-json
-flask
+Pandas==1.1
+Flask==1.0
